@@ -1,5 +1,5 @@
 
-    let months = ["January","February","March","April","May","June","June","August","September","October","November","December"];
+let months = ["January","February","March","April","May","June","June","August","September","October","November","December"];
 do{
     let result = prompt("Введите месяц");
     if(!result){
